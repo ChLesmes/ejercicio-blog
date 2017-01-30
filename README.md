@@ -10,3 +10,7 @@ Blog
 [uso]
 
 [Documentación]
+
+[roadmap]
+
+[licencia]
