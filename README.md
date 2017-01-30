@@ -1,2 +1,12 @@
-# ejercicio-blog
-blog de prueba
+Blog
+
+[Descripcion del proyecto]
+
+[Instalación]
+ - requisitos
+ - versión
+ - encargados del proyecto
+ 
+[uso]
+
+[Documentación]
